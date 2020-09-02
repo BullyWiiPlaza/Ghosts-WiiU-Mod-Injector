@@ -1,6 +1,6 @@
 # Ghosts Wii U Mod Injector
 
-This is the [first](https://www.youtube.com/watch?v=bz_sIOfcFTA) and most advanced mod injector for Call of Duty: Ghosts Wii U, created by BullyWiiPlaza. It originally came out in 2016 and has been developed since then.
+This is the **[first](https://www.youtube.com/watch?v=bz_sIOfcFTA)** and most advanced mod injector for Call of Duty: Ghosts Wii U, created by BullyWiiPlaza. It originally came out in 2016 and has been developed since then.
 
 ## Download
 
