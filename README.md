@@ -4,7 +4,7 @@ This is the **[first](https://www.youtube.com/watch?v=bz_sIOfcFTA)** and most ad
 
 ## Download
 
-The download for the mod injector can be found in the description of **[this](https://www.youtube.com/watch?v=LJMtOEXJDQE)** YouTube video.
+The download for the mod injector can be found on the GitHub Releases tab [**here**](https://github.com/BullyWiiPlaza/Ghosts-WiiU-Mod-Injector/releases/latest).
 
 Please note that this download includes everything you need to get up and running on the PC side, besides Java itself.
 
